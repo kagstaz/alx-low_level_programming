@@ -4,8 +4,8 @@
 /**
 * main - entry point
 *
-* Description: prints the numbers from 1 to 100
-* But for multiples of 3 it prints Fizz
+* Description: prints the numbers from 1 to 100 w/
+* but for multiples of 3 it prints Fizz
 * for the multiples of 5 it prints Buzz
 * for multiples of both 3 and 5 it prints FizzBuzz
 *
