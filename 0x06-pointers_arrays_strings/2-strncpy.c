@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _strncpy - function that concatenated two strings
+* _strncpy - function that copies a strings
 * @dest: destination string pointer
 * @src: source string pointer
 * @n: number of bytes to be concatenated.
