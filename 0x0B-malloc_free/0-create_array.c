@@ -3,7 +3,7 @@
 
 /**
 * create_array - creates an array of characters
-*
+* @size: input for the size of the array in int
 * @c: stores the strings of character
 *
 * Return: a pointer to the base character c
